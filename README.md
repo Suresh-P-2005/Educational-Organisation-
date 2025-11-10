@@ -1,14 +1,20 @@
-#🎓 Educational Organisation Using ServiceNow
+# 🎓 Educational Organisation Using ServiceNow
 
 A fully functional Educational Management System built on the ServiceNow Platform (PDI) to simplify and automate admissions, academic progress tracking, and student record management — with zero-code customization.
 
 
 Team ID : NM2025TMID07281
+
 Team Size : 5
+
 Team Leader : Senthil ARUN M
+
 Team member : Suresh P
+
 Team member : Sathieshwaran C
+
 Team member : SYED Ibrahim A
+
 Team member : Santhosh Kumar C
 
 Servicenow Instance: https://dev199102.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=mJ%25Q%24e9qYhY1
