@@ -17,6 +17,6 @@ Team member : SYED Ibrahim A
 
 Team member : Santhosh Kumar C
 
-Servicenow Instance: https://dev279148.service-now.com/login.do?user_name=admin&sys_action=sysverb_login&user_password=Ky%5EsI!rCN10c
+Servicenow Instance: https://dev279148.service-now.com/
 
 Demo Video: https://drive.google.com/file/d/1bCM14HUXK8h1rUiQtSDQx4erMKFCDKmE/view?usp=drivesdk
